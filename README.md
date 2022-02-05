@@ -1,4 +1,4 @@
-## Óla meu nome é Daniel e eu estou trabalhando em meu desenvolvimento persoal e profissional, buscando a cada dia mais conhecimento.� 
+## Óla meu nome é Daniel e atualmente eu estou trabalhando em meu desenvolvimento persoal e profissional, buscando a cada dia mais conhecimento.� 
 <div align = "centro">
   <a href="https://github.com/daniel9821">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel9821&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
